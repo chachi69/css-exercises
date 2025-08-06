@@ -1,0 +1,17 @@
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", serif;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.click {
+
+background-color: black;
+    color: white;
+}
+
+.no {
+    background-color: yellow;
+}
